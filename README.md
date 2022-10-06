@@ -6,6 +6,7 @@ Please watch the videos on Series Resources(autodrivechallenge.com) before you o
 File structure:
 
 TL_start – startup script – run first. 
+
 Misc models folder – Contains all simulink models created. Predefined.....mod22 is the final combined file
 Scenarios – contains scenario .m and .mat files
 Sensor Configs – contains sensor configuration .m files
